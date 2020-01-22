@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
 
   s.author       = { "jon hoag" => "jon@swiftable.org", "aaron chavez" => "aaron@swiftable.org" }
   s.source       = { :git => "https://github.com/swiftablellc/jabberwocky-head-tracking-kit-ios.git", :tag => s.version.to_s }
-  s.vendored_frameworks = "HTKit/" + s.version.to_s + "/HTKit/Products/Library/Frameworks/HTKit.framework"
+  s.vendored_frameworks = "JabberwockyHTKit/" + s.version.to_s + "/HTKit/Products/Library/Frameworks/HTKit.framework"
   s.ios.deployment_target = "12.0"
 end
