@@ -1,0 +1,11 @@
+framework module HTKit {
+  umbrella header "HTKit.h"
+
+  export *
+  module * { export * }
+}
+
+module HTKit.Swift {
+    header "HTKit-Swift.h"
+    requires objc
+}
