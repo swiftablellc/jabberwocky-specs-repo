@@ -32,4 +32,5 @@ Jabberwocky® is a registered trademark of Swiftable LLC.
 
 ## License
 JabberwockyHTKit is Open Source Licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
+
 JabberwockyHTKitCore is Licensed under the [Permissive Binary License](https://www.mbed.com/en/licenses/permissive-binary-license/)
